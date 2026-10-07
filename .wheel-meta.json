@@ -1,0 +1,19 @@
+{
+  "wheel_id": 341,
+  "structure": "umbrella",
+  "slug": "lenderdirect-com-151",
+  "project": "private-lenders-australia-402fe1173083762d37046b1413194ac1e5d29",
+  "parent_t1_ref": "lenderdirect.com-006",
+  "node_role": "buffer",
+  "money_target": "lenderdirect.com.au",
+  "primary_kw": "private lenders australia",
+  "intended_url": "http://private-lenders-australia-402fe1173083762d37046b1413194ac1e5d29.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "writeback_nonce": "e8eb3de5e011bd0e",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/private-lenders-australia/",
+      "anchor": "private lenders australia",
+      "rel": "follow"
+    }
+  ]
+}
